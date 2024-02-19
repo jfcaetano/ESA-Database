@@ -1,5 +1,5 @@
 ### Mol Correlation
-### JFCAETANO 2023
+### JFCAETANO 2024
 ### MIT Licence
 
 
@@ -31,7 +31,7 @@ def find_best_correlated_descriptors(data, target_descriptor, exclude_cols):
 
 # Example usage
 # Load your dataset
-df = pd.read_csv('Database.csv')  # Replace with your dataset file path
+df = pd.read_csv('Database_ESA.csv')  # Replace with your dataset file path
 
 # Specify your target descriptor
 target_descriptor = 'Yield'  # Replace with your target descriptor's column name
