@@ -2,6 +2,7 @@
 ### JFCAETANO 2024
 ### MIT Licence
 
+import pandas as pd
 
 def find_best_correlated_descriptors(data, target_descriptor, exclude_cols):
     """
